@@ -429,7 +429,7 @@ button{
     text-shadow: 1px 2px 1px red;
 }
 
-@media screen and (max-width: 320px) and (min-width: 217px){
+@media screen and (max-width: 810px) and (min-width: 310px){
 
 
 .bodym{
