@@ -1,0 +1,273 @@
+.busi{
+    font-size: 48px;
+    color: #c115159c;
+}
+
+.TT{
+    font-family: fangsong;
+    font-size: 30px;
+}
+
+.website-header-text {
+	font-family: fangsong;
+	font-size: 2rem;
+}
+
+.website-logo {
+	font-size: 2rem;
+    color: #c115159c;
+}
+
+.carousal-image {
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.bg-carousal-image1 {
+	background-image: url("bus1.jpg")
+}
+
+.bg-carousal-image2 {
+	background-image: url("bus2.jpg")
+}
+
+.bg-carousal-image3 {
+	background-image: url("Bfun.jpg")
+}
+
+.divfeature{
+
+    color: #111111;
+    background-color: #e9ecef;
+    width: 90%;
+    /* height: 737px; */
+    border-radius: 50px;
+   
+    
+
+}
+
+
+.Feature {
+    color: #31305c !important;
+    font-family: -webkit-body;
+    font-weight: bold;
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.seat{
+    width: 18rem;
+    border: 0px solid red;
+    border-radius: 24px;
+    background-color: #ced4da;
+    height: 20rem;
+
+}
+
+.card img {
+    height: 10rem !important;
+}
+
+
+.iconseat{
+    /* font-size: 116px; */
+    /* margin-left: 79px; */
+    color: green;
+    /* margin-top: 4px; */
+}
+
+.CS{
+
+    color: #141619 !important;
+    font-weight: 700;
+    font-size: 1.5rem;
+    /* margin: 10px auto 0; */
+    font-family: 'PT Sans',sans-serif;
+    /* margin-left: 83px; */
+}
+
+.pseat{
+    /* margin-top: 4px; */
+    /* margin-bottom: 0; */
+    font-size: 1rem;
+    /* margin-left: 0; */
+    color: #14161982 !important ;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bolder;
+    /* margin-top: 12px; */
+}
+
+
+.fs1{
+
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+    height: 25px;
+    width: 85px;
+}
+
+
+.fname{
+
+    margin-left: 30px;
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fnp{
+
+    margin-left: 4px;
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+
+}
+
+
+.booking-form{
+
+    border-radius: 47px;
+    height: 295px;
+    width: 420px;
+    /* margin-left: 384px; */
+    /* padding: 28px; */
+    background-color: #FFDAB9;
+    /* margin-top: 56px; */
+    color: #CD853F;
+    border-style: solid;
+}
+
+
+.fnp{
+
+    margin-left: 4px;
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+
+}
+
+.fbt{
+
+    margin-left: 101px;
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fbtn{
+
+    margin-left: 130px !important;
+    border-radius: 15px !important;
+    color: #C71585!important;
+    background-color: #FFE4E1 !important;
+}
+
+.Fs{
+
+    margin-left: 4px;
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fs1{
+
+    background-color: #f5f5dc;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+    height: 25px;
+    width: 85px;
+}
+
+.pab{
+
+    font-size: 16.3px;
+    font-weight: 800;
+    font-family: cursive;
+    color: #1b8593;
+    background-color: azure;
+    border-radius: 15px;
+    padding: 3px;
+    border: 1px double green;
+    /* height: 88px; */
+}
+
+.pab1{
+
+    font-size: 27px;
+    font-weight: bolder;
+    font-family: cursive;
+    color: #004952;
+    border-radius: 15px;
+    /* padding: 3px; */
+    /* margin-left: 38px; */
+}
+
+#footer{
+
+    padding: 25px 10px;
+    background: #555;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    border-top: solid 15px #4b6692;
+}
+
+
+
+
+/* @media screen and (max-width: 780px) and (min-width: 310px){ */
+
+    /* .TT{ */
+
+        /* font-family: fangsong; */
+        /* font-size: 17px; */
+       
+    /* } */
+    
+    /* .busi{ */
+
+        /* font-size: 30px; */
+        /* color: #c115159c; */
+        
+    /* } */
+
+
+    /* .tog{ */
+        /* font-size: 14px; */
+        /* background-color: #0765f16b; */
+    /* } */
+
+    /* .Feature { */
+        /* color: #31305c !important; */
+        /* font-family: -webkit-body; */
+        /* font-weight: bold; */
+        /* font-size: 24px; */
+        /* font-style: italic; */
+        /* text-align: center; */
+    /* } */
+/* } */
